@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Perle Fainas.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
 
-What else do you need?
+**2024-2026**: Master's Degree in Digital Humanities, *King's College London*
+**2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL*
 
-### My story
+### Professional Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tech Commission President @ Conversation Géo-Éco
