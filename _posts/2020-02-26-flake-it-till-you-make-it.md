@@ -10,3 +10,4 @@ author: Sharon Smith and Barry Simpson
 ---
 <a href="/pdf-folder/Post-Mortem-Avatars.pdf" target="_blank">Download (PDF)</a>
 [Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/Post-Mortem-Avatars.pdf)
+[Télécharger le dossier de conception (PDF)]({{ site.baseurl }}/assets/pdf-folder/Post-Mortem-Avatars.pdf)
