@@ -9,4 +9,4 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
 [Télécharger le dossier de conception (PDF)](/assets/pdf-folder/Post-Mortem-Avatars.pdf)
-<a href="/pdf-folder/Post-Mortem-Avatars.pdf" class="image fit">Download</a>
+<a href="/pdf-folder/Post-Mortem-Avatars.pdf" target="_blank">Download (PDF)</a>
