@@ -3,7 +3,7 @@ layout: post
 title: Click, Comply, Govern
 subtitle: The Case of the European Citizens’ Initiative
 cover-img: /assets/img/eci.jpg
-share-img: /assets/img/eci.jpg
+share-img: /assets/img/ai.jpg
 tags: [Platforms, EU, Participatory Democracy]
 author: Perle Fainas
 ---
