@@ -3,6 +3,7 @@ layout: post
 title: Post-Mortem Avatars
 subtitle: Generative Artificial Intelligence Report
 cover-img: /assets/img/ai.jpg
+thumbnail-img: /assets/img/postmortem.jpg
 share-img: /assets/img/ai.jpg
 tags: [AI, Post mortem Avatars, EU regulation, Grief Tech]
 author: Perle Fainas
