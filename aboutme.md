@@ -8,19 +8,22 @@ Recently graduated from my Master's Degree in Digital Culture & Society from Kin
 
 ### Education
 
-**2026-now**: Course on AGI Strategy @ BlueDot Impact 
++ **2026-now**: Course on AGI Strategy @ BlueDot Impact 
 
-**2024-2026**: Master's Degree in Digital Culture & Society, *King's College London*
++ **2024-2026**: Master's Degree in Digital Culture & Society, *King's College London*
 
-**2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL*
++ **2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL*
 
 ### Professional Experience
 
 Tech Commission President @ Conversation Géo-Éco
+
 Tutor @ The Access Project & ZupDeCo 
 
 ### Past experiences: 
 
-Writing Internship @ Conte-moi l'histoire 
+Writing Internship @ Conte-moi l'histoire
+
 Street Walk Marketing for Amnesty, Unicef, la Croix-Rouge @ Straight Walk Marketing
-+ Other part-time jobs in retail (e.g. for the Paris Olympic Games, in Lille, Paris, etc.)
+
+++ Other part-time jobs in retail (e.g. for the Paris Olympic Games, in Lille, Paris, etc.)
