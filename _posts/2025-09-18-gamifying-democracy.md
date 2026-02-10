@@ -2,9 +2,9 @@
 layout: post
 title: Gamifying Democracy
 subtitle: Elyze and the Politics of Swipe-Based Participation
-cover-img: /assets/img/game.jpg
+cover-img: /assets/img/gaming.png
 thumbnail-img: /assets/img/elyze.png
-share-img: /assets/img/game.jpg
+share-img: /assets/img/gaming.png
 tags: [Political Participation, Gamification, Metamodernism]
 author: Perle Fainas
 ---
