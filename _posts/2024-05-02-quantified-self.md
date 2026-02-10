@@ -2,8 +2,8 @@
 layout: post
 title: Beyond Improvement: The Quantified Self
 subtitle: A study on the institutionalisation of self-tracking in a digital age
-cover-img: /assets/img/qs.png
-share-img: /assets/img/qs.png
+cover-img: /assets/img/qs.jpg
+share-img: /assets/img/qs.jpg
 tags: [Self-tracking, Neoliberalism, Gamification, Postmodernism]
 author: Perle Fainas
 ---
