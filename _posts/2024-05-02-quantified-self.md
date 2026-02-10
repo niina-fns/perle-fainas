@@ -2,9 +2,9 @@
 layout: post
 title: Beyond Improvement
 subtitle: A study on the institutionalisation of self-tracking in a digital age
-cover-img: /assets/img/qs.jpg
-thumbnail-img: /assets/img/run.jpg
-share-img: /assets/img/qs.jpg
+cover-img: /assets/img/run.jpg
+thumbnail-img: /assets/img/qs.jpg
+share-img: /assets/img/run.jpg
 tags: [Self-tracking, Neoliberalism, Gamification, Postmodernism]
 author: Perle Fainas
 ---
