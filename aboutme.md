@@ -4,13 +4,13 @@ title: About me
 subtitle: 
 ---
 
-[CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV.pdf)
+[Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV.pdf)
 
-Recently graduated from my Master's Degree in Digital Culture & Society from King's College London, I am looking forward to gain new experiences and explore different sectors related to tech and/or research. My goal is to pursue a PhD in the future. Currently, I am based in London and working as the President of the Tech Commission for the think tank Conversation Géo-Éco. Part-time, I am tutoring students from the Access Project (UK) and ZupDeCo (France) in french, english, politics & philosophy, as well as following the AGI Strategy Course at BlueDot Impact. 
+Recently graduated from my Master's Degree in Digital Culture & Society from King's College London, I am looking forward to gain new experiences and explore different sectors related to tech and/or research. My goal is to pursue a PhD in the future. Currently, I am based in London and working as the co-President of the Tech Commission for the think tank Conversation Géo-Éco. Part-time, I am also tutoring students from the Access Project (UK) and ZupDeCo (France) in french, english, politics & philosophy. 
 
 ### Education
 
-+ **2026-now**: Course on AGI Strategy @ BlueDot Impact 
++ **2026**: Course on AGI Strategy & Frontier AI Governance @ BlueDot Impact 
 
 + **2024-2026**: Master's Degree in Digital Culture & Society, *King's College London*
 
@@ -18,7 +18,7 @@ Recently graduated from my Master's Degree in Digital Culture & Society from Kin
 
 ### Professional Experience
 
-Tech Commission President @ Conversation Géo-Éco
+Tech Commission co-President @ Conversation Géo-Éco
 
 Tutor @ The Access Project & ZupDeCo 
 
