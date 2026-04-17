@@ -4,6 +4,8 @@ title: About me
 subtitle: 
 ---
 
+[CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV.pdf)
+
 Recently graduated from my Master's Degree in Digital Culture & Society from King's College London, I am looking forward to gain new experiences and explore different sectors related to tech and/or research. My goal is to pursue a PhD in the future. Currently, I am based in London and working as the President of the Tech Commission for the think tank Conversation Géo-Éco. Part-time, I am tutoring students from the Access Project (UK) and ZupDeCo (France) in french, english, politics & philosophy, as well as following the AGI Strategy Course at BlueDot Impact. 
 
 ### Education
