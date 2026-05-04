@@ -2,9 +2,9 @@
 layout: post
 title: Carnal Ethnography
 subtitle: A Path to Embodied Knowledge 
-cover-img: /assets/img/run.jpg
-thumbnail-img: /assets/img/qs.jpg
-share-img: /assets/img/run.jpg
+cover-img: /assets/img/geoback.jpg
+thumbnail-img: /assets/img/geoblock.jpg
+share-img: /assets/img/geoback.jpg
 tags: [Video-games, Neoliberalism, Gamification, Carnal Ethnography]
 author: Perle Fainas
 ---
