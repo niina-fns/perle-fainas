@@ -1,0 +1,15 @@
+---
+layout: post
+title: Carnal Ethnography
+subtitle: A Path to Embodied Knowledge 
+cover-img: /assets/img/run.jpg
+thumbnail-img: /assets/img/qs.jpg
+share-img: /assets/img/run.jpg
+tags: [Video-games, Neoliberalism, Gamification, Carnal Ethnography]
+author: Perle Fainas
+---
+
+These are collections of carnal ethnographies and short essays inspired by Wacquant's ideas on how social structures and the "habitus" are deeply embodied and experienced rather than simply intellectually understood. In that regards, I have analysed some of my own experiences playing video games and navigating through life beyond, and how these two intersect.
+
+[Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/GeometryDash.pdf)
+[Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/PapaFreezeria.pdf)
