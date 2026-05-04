@@ -11,5 +11,5 @@ author: Perle Fainas
 
 These are collections of carnal ethnographies and short essays inspired by Wacquant's ideas on how social structures and the "habitus" are deeply embodied and experienced rather than simply intellectually understood. In that regards, I have analysed some of my own experiences playing video games and navigating through life beyond, and how these two intersect.
 
-[Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/GeometryDash.pdf)
-[Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/PapaFreezeria.pdf)
+[On Geometry Dash (PDF)]({{ site.baseurl }}/assets/pdf-folder/GeometryDash.pdf)
+[On Papa Freezeria (PDF)]({{ site.baseurl }}/assets/pdf-folder/PapaFreezeria.pdf)
