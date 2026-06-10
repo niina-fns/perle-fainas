@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Think tank Policy Report
-subtitle: French Cloud Dependencies
+title: Think Tank Policy Report
+subtitle: On the French Cloud Dependencies & Opportunities
 cover-img: /assets/img/cloud.jpg
 thumbnail-img: /assets/img/cloudd.jpg
 share-img: /assets/img/cloud.jpg
