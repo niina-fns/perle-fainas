@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think tank Policy Report
-subtitle: Dependencies: The case of the cloud
+subtitle: French Cloud Dependencies
 cover-img: /assets/img/cloud.jpg
 thumbnail-img: /assets/img/cloudd.jpg
 share-img: /assets/img/cloud.jpg
