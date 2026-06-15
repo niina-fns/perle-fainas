@@ -22,10 +22,9 @@ I'm currently based in London (with the right to work in the UK) and open to opp
 ### Professional Experience
 
 **Tech Commission Co-President @ Conversation Géo-Éco (2025 – present)**
-+ Redaction of a yearly policy-report on the stakes & dependencies of the French Sovereign Cloud
-+ Interviews with major actors such as Microsoft, Dassault Systems, euro-deputies & experts
-+ Organisation of a colloquium reuniting specialists, decision-makers and elected government officials in collaboration with the
-+ Economic, Social and Environmental Council (ESEC) at the Palais d’Iéna in Paris
++ Redaction of a yearly policy-report on the stakes & dependencies of the French Sovereign Cloud (available [here](https://www.conversationgeoeco.com/commission-tech)) 
++ Interviews with major actors such as Microsoft, Dassault Systems, euro-deputies & experts 
++ Organisation of a colloquium reuniting specialists, decision-makers and elected government officials in collaboration with the Economic, Social and Environmental Council (ESEC) @ the Palais d’Iéna in Paris
 
 **Tutor & Mentor @ The Access Project & ZupDeCo (2025 – present)**
 + Tutoring & mentoring students in Philosophy, French, English & Politics (Enhanced DBS Check obtained)
