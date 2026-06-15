@@ -6,13 +6,13 @@ subtitle:
 
 [Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV1.pdf)
 
-I'm a Digital Politics researcher and recent MA graduate from King's College London (Distinction), with a background spanning political science, technology policy, and qualitative research. I'm passionate about the way technology shapes society — and equally curious about the organisations, products, and decisions that drive that change.
+I'm a Digital Politics researcher and recent MA graduate from King's College London (Distinction), with a background spanning political science, technology policy, and qualitative research. I'm passionate about the way technology shapes society,and decisions that drive that change.
 
-Alongside my studies, I've built hands-on experience across research, policy, and communications. As co-President of the Tech Commission at think tank Conversation Géo-Éco, I lead policy research on AI and digital sovereignty, conduct interviews with senior stakeholders including industry leaders, MEPs, and government officials, and co-organise high-level colloquia at institutions such as the Palais d'Iéna. I also completed a course in AGI Strategy & Frontier AI Governance through BlueDot Impact, further grounding my understanding of where AI policy is headed.
+Alongside my studies, I've built hands-on experience across research, policy, and projects. As co-President of the Tech Commission at think tank Conversation Géo-Éco, I lead policy research on AI and digital sovereignty, conduct interviews with senior stakeholders including industry leaders, MEPs, and government officials, and co-organise high-level colloquia at the Palais d'Iéna. I also completed a course in AGI Strategy & Frontier AI Governance through BlueDot Impact, also passionate about deepening mhy understand of where AI policy is headed.
 
-Beyond research, I've worked across writing, events, education, and client-facing roles — from scripting educational audio content for children, to managing 20+ events across two student organisations, to retail and campaign work in fast-paced environments. I bring the same energy and adaptability to all of it.
+Beyond research, I've worked across writing, events, education, and client-facing roles. I have scripted educational audio content for children, managed 20+ events across two student organisations, to also have worked in retail and campaign work in high-pressure environments. I bring the same energy and adaptability to all of it.
 
-I'm currently based in London (with the right to work in the UK) and open to opportunities across tech, policy, research, and beyond. I work fluently in French and English, and hold intermediate Japanese.
+I'm currently based in London (with the right to work in the UK) and open to opportunities across tech, policy, research, and beyond. I work fluently in French and English, and am confident in using various digital tools (such as building a blog, as you can see!).
 
 
 ### Education
@@ -44,7 +44,7 @@ I'm currently based in London (with the right to work in the UK) and open to opp
 + Oversaw full event lifecycle from venue selection, regulatory compliance, logistics, to marketing coordination
 
 +Face-to-face fundraising & retail roles (various, incl. Paris 2024 Olympics)
-**+ NGOs street marketing for Amnesty, UNICEF, Croix-Rouge (etc.) @ Straight Walk Marketing (2024)
-+ Paris Olympic Retail Employee @ Legends (2024)
-+ Butcher @ Halles Modernes (2022)
-+ Food Retail Employee @ Naked Saint-Lazare (2022)**
++ **NGOs street marketing for Amnesty, UNICEF, Croix-Rouge (etc.) @ Straight Walk Marketing (2024)**
++ **Paris Olympic Retail Employee @ Legends (2024)**
++ **Butcher @ Halles Modernes (2022)**
++ **Food Retail Employee @ Naked Saint-Lazare (2022)**
