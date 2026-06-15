@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-[Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV1.pdf)
+[Check out my CV right here!]({{ site.baseurl }}/assets/pdf-folder/CV1.pdf)
 
 I'm a Digital Politics researcher and recent MA graduate from King's College London (Distinction), with a background spanning political science, technology policy, and qualitative research. I'm passionate about the way technology shapes society,and decisions that drive that change.
 
