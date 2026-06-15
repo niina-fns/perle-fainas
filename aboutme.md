@@ -7,9 +7,13 @@ subtitle:
 [Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV1.pdf)
 
 I'm a Digital Politics researcher and recent MA graduate from King's College London (Distinction), with a background spanning political science, technology policy, and qualitative research. I'm passionate about the way technology shapes society — and equally curious about the organisations, products, and decisions that drive that change.
+
 Alongside my studies, I've built hands-on experience across research, policy, and communications. As co-President of the Tech Commission at think tank Conversation Géo-Éco, I lead policy research on AI and digital sovereignty, conduct interviews with senior stakeholders including industry leaders, MEPs, and government officials, and co-organise high-level colloquia at institutions such as the Palais d'Iéna. I also completed a course in AGI Strategy & Frontier AI Governance through BlueDot Impact, further grounding my understanding of where AI policy is headed.
+
 Beyond research, I've worked across writing, events, education, and client-facing roles — from scripting educational audio content for children, to managing 20+ events across two student organisations, to retail and campaign work in fast-paced environments. I bring the same energy and adaptability to all of it.
+
 I'm currently based in London (with the right to work in the UK) and open to opportunities across tech, policy, research, and beyond. I work fluently in French and English, and hold intermediate Japanese.
+
 
 ### Education
 
@@ -18,6 +22,7 @@ I'm currently based in London (with the right to work in the UK) and open to opp
 + **2024-2026**: Master's Degree in Digital Culture & Society, *King's College London* - Distinction
 
 + **2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL* - 2:1
+
 
 ### Professional Experience
 
@@ -38,8 +43,8 @@ I'm currently based in London (with the right to work in the UK) and open to opp
 + Organised 20+ events (e.g. cultural events, educative workshops, conferences, shows, initiatives, etc.)
 + Oversaw full event lifecycle from venue selection, regulatory compliance, logistics, to marketing coordination
 
-**Face-to-face fundraising & retail roles (various, incl. Paris 2024 Olympics)**
-+ NGOs street marketing for Amnesty, UNICEF, Croix-Rouge (etc.) @ Straight Walk Marketing (2024)
++Face-to-face fundraising & retail roles (various, incl. Paris 2024 Olympics)
+**+ NGOs street marketing for Amnesty, UNICEF, Croix-Rouge (etc.) @ Straight Walk Marketing (2024)
 + Paris Olympic Retail Employee @ Legends (2024)
 + Butcher @ Halles Modernes (2022)
-+ Food Retail Employee @ Naked Saint-Lazare (2022)
++ Food Retail Employee @ Naked Saint-Lazare (2022)**
