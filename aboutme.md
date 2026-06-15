@@ -4,28 +4,43 @@ title: About me
 subtitle: 
 ---
 
-[Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV.pdf)
+[Check out my CV (PDF)]({{ site.baseurl }}/assets/pdf-folder/CV1.pdf)
 
-Recently graduated from my Master's Degree in Digital Culture & Society from King's College London, I am looking forward to gain new experiences and explore different sectors related to tech and/or research. My goal is to pursue a PhD in the future. Currently, I am based in London and working as the co-President of the Tech Commission for the think tank Conversation Géo-Éco. Part-time, I am also tutoring students from the Access Project (UK) and ZupDeCo (France) in french, english, politics & philosophy. 
+I'm a Digital Politics researcher and recent MA graduate from King's College London (Distinction), with a background spanning political science, technology policy, and qualitative research. I'm passionate about the way technology shapes society — and equally curious about the organisations, products, and decisions that drive that change.
+Alongside my studies, I've built hands-on experience across research, policy, and communications. As co-President of the Tech Commission at think tank Conversation Géo-Éco, I lead policy research on AI and digital sovereignty, conduct interviews with senior stakeholders including industry leaders, MEPs, and government officials, and co-organise high-level colloquia at institutions such as the Palais d'Iéna. I also completed a course in AGI Strategy & Frontier AI Governance through BlueDot Impact, further grounding my understanding of where AI policy is headed.
+Beyond research, I've worked across writing, events, education, and client-facing roles — from scripting educational audio content for children, to managing 20+ events across two student organisations, to retail and campaign work in fast-paced environments. I bring the same energy and adaptability to all of it.
+I'm currently based in London (with the right to work in the UK) and open to opportunities across tech, policy, research, and beyond. I work fluently in French and English, and hold intermediate Japanese.
 
 ### Education
 
 + **2026**: Course on AGI Strategy & Frontier AI Governance @ BlueDot Impact 
 
-+ **2024-2026**: Master's Degree in Digital Culture & Society, *King's College London*
++ **2024-2026**: Master's Degree in Digital Culture & Society, *King's College London* - Distinction
 
-+ **2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL*
++ **2021-2023**: Bachelor's Degree in Political Sciences, *ESPOL* - 2:1
 
 ### Professional Experience
 
-Tech Commission co-President @ Conversation Géo-Éco
+**Tech Commission Co-President @ Conversation Géo-Éco (2025 – present)**
++ Redaction of a yearly policy-report on the stakes & dependencies of the French Sovereign Cloud
++ Interviews with major actors such as Microsoft, Dassault Systems, euro-deputies & experts
++ Organisation of a colloquium reuniting specialists, decision-makers and elected government officials in collaboration with the
++ Economic, Social and Environmental Council (ESEC) at the Palais d’Iéna in Paris
 
-Tutor @ The Access Project & ZupDeCo 
+**Tutor & Mentor @ The Access Project & ZupDeCo (2025 – present)**
++ Tutoring & mentoring students in Philosophy, French, English & Politics (Enhanced DBS Check obtained)
 
-### Past experiences: 
+**Writing Internship @ Conte-moi l'Histoire (2024)**
++ Planned, scripted, and edited a full series of audio episodes introducing French history to children aged 6 to 12
++ Contributed to the planning & publishing with publishing houses & local libraries
 
-Writing Internship @ Conte-moi l'histoire
+**Head of Events @ DiplomAsie & Simone S'éveille (2022–2024)**
++ Led two 10+ people teams across DiplomAsie and Simone S’éveille
++ Organised 20+ events (e.g. cultural events, educative workshops, conferences, shows, initiatives, etc.)
++ Oversaw full event lifecycle from venue selection, regulatory compliance, logistics, to marketing coordination
 
-Street Walk Marketing for Amnesty, Unicef, la Croix-Rouge @ Straight Walk Marketing
-
-++ Other part-time jobs in retail (e.g. for the Paris Olympic Games, in Lille, Paris, etc.)
+**Face-to-face fundraising & retail roles (various, incl. Paris 2024 Olympics)**
++ NGOs street marketing for Amnesty, UNICEF, Croix-Rouge (etc.) @ Straight Walk Marketing (2024)
++ Paris Olympic Retail Employee @ Legends (2024)
++ Butcher @ Halles Modernes (2022)
++ Food Retail Employee @ Naked Saint-Lazare (2022)
