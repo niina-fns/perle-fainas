@@ -21,7 +21,8 @@ author: Perle Fainas
 
 navbar-links:
   About Me: "aboutme"
-  CGE: "https://www.conversationgeoeco.com"
+  Think Tank: "https://www.conversationgeoeco.com"
+  CV:"https://niina-fns.github.io/perle-fainas/assets/pdf-folder/CV1.pdf"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
