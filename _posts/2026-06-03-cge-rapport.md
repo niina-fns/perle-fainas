@@ -13,4 +13,4 @@ La question du cloud souverain apparaît comme un enjeu structurant pour la poli
 
 *Paper co-led and collectively written with the Tech Commission of Conversation Géo-Éco.*
 
-[Download (PDF)]({{ site.baseurl }}/assets/pdf-folder/Rapport-CGE-Tech.pdf)
+Available to download on [Conversation Géo-Éco's website](https://www.conversationgeoeco.com/commission-tech).
