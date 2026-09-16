@@ -22,7 +22,7 @@ author: Perle Fainas
 navbar-links:
   About Me: "aboutme"
   Think Tank: "https://www.conversationgeoeco.com"
-  CV:"https://niina-fns.github.io/perle-fainas/assets/pdf-folder/CV1.pdf"
+  CV: "https://niina-fns.github.io/perle-fainas/assets/pdf-folder/CV1.pdf"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -304,4 +304,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
